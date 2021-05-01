@@ -1,0 +1,11 @@
+{
+  "name": "mongo-backup-shell",
+  "version": "1.0.0",
+  "description": "Mongo backup module from commnad shell",
+  "main": "mongo-backup-shell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Paulo Labrin (Codigoweb.cl)",
+  "license": "MIT"
+}
