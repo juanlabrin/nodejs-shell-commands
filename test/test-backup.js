@@ -2,7 +2,7 @@ var mongoBackupShell = require('../mongo-backup-shell/mongo-backup-shell');
 
 mongoBackupShell.backupDB(
     {
-        db: 'demoMetalurgica', // required
+        db: 'databaseName', // required
         // access: {
         //     host: '127.0.0.1', // required
         //     user: 'admin', // required
